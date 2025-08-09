@@ -1,0 +1,4 @@
+node_modules/
+.env
+bpdata.db
+.DS_Store
